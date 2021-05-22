@@ -1,0 +1,1 @@
+web: gunicorn faceart_moc.wsgi
